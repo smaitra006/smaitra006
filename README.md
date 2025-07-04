@@ -66,7 +66,7 @@ public:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=smaitra006&count_private=true&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&hide_border=true" />
+  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=smaitra006&count_private=true&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&hide_border=true" />
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaitra006&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
 </div>
 
