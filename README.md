@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://codeforces.com/profile/smaitra006"><img src="https://img.shields.io/badge/Codeforces-1462-blue?style=flat-square&logo=codeforces&logoColor=white&labelColor=1f1f1f"/></a>
   <a href="https://www.codechef.com/users/smaitra006"><img src="https://img.shields.io/badge/CodeChef-1606-brown?style=flat-square&logo=codechef&logoColor=white&labelColor=1f1f1f"/></a>
-  <a href="https://leetcode.com/SMaitra006"><img src="https://img.shields.io/badge/LeetCode-150+-orange?style=flat-square&logo=leetcode&logoColor=white&labelColor=1f1f1f"/></a>
+  <a href="https://leetcode.com/SMaitra006"><img src="https://img.shields.io/badge/LeetCode-600+-orange?style=flat-square&logo=leetcode&logoColor=white&labelColor=1f1f1f"/></a>
   <img src="https://komarev.com/ghpvc/?username=SMaitra006&style=flat-square&color=blueviolet&labelColor=1f1f1f"/>
 </p>
 
