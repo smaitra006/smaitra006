@@ -15,8 +15,8 @@
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════╗
-║  🎓 NIT Durgapur | CSE | CGPA: 9.15/10.0                                 ║
-║  📍 Howrah, West Bengal, India                                            ║
+║  🎓 NIT Durgapur | CSE | CGPA: 9.44/10.0                                 ║
+║  📍 Kolkata, West Bengal, India                                            ║
 ║  💼 Junior Coordinator @ RECursion Programming Community                  ║
 ║  🎯 500+ Problems Solved | Specialist on Codeforces | 3⭐ on CodeChef    ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
@@ -36,7 +36,7 @@ class CompetitiveProgrammer {
         this.location = "NIT Durgapur, India";
         this.education = {
             degree: "B.Tech in Computer Science",
-            cgpa: "9.15/10.0",
+            cgpa: "9.44/10.0",
             year: "2024-2028"
         };
     }
@@ -273,7 +273,7 @@ Impact:
 
 <br/>
 
-### 🎯 2025 Goals
+### 🎯 2026 Goals
 **🔹 Reach Expert on Codeforces** • **🔹 Master System Design** • **🔹 Contribute to Major OSS Projects** • **🔹 Build 10+ Production Apps**
 
 <br/>
